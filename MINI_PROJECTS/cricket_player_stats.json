@@ -1,0 +1,52 @@
+{
+    "player": {
+        "full_name": "Virat Kohli",
+        "date_of_birth": "1988-11-05",
+        "nationality": "Indian",
+        "playing_role": "Batsman",
+        "batting_style": "Right-hand",
+        "bowling_style": "Right-arm medium",
+        "total_matches": {
+            "tests": 109,
+            "odis": 275,
+            "t20is": 115,
+            "ipl": 239
+        },
+        "total_runs": {
+            "tests": 8676,
+            "odis": 12898,
+            "t20is": 4008,
+            "ipl": 7263
+        },
+        "batting_average": {
+            "tests": 49.26,
+            "odis": 57.32,
+            "t20is": 52.73,
+            "ipl": 37.46
+        },
+        "strike_rate": {
+            "tests": 55.38,
+            "odis": 92.92,
+            "t20is": 137.96,
+            "ipl": 129.94
+        },
+        "total_wickets": {
+            "tests": 4,
+            "odis": 4,
+            "t20is": 0,
+            "ipl": 4
+        },
+        "bowling_average": {
+            "tests": 166.75,
+            "odis": 56.5,
+            "t20is": null,
+            "ipl": 49.5
+        },
+        "best_bowling_figures": {
+            "tests": "1/1",
+            "odis": "1/6",
+            "t20is": null,
+            "ipl": "1/13"
+        }
+    }
+}

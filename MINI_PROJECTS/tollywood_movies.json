@@ -1,0 +1,84 @@
+{
+    "movies": [
+        {
+            "movie_name": "Siva",
+            "release_date": "1989-10-05",
+            "director": "Ram Gopal Varma",
+            "genre": "Action/Crime",
+            "budget_crores": 0.28,
+            "estimated_profit_crores": 10
+        },
+        {
+            "movie_name": "Kshana Kshanam",
+            "release_date": "1991-02-14",
+            "director": "Ram Gopal Varma",
+            "genre": "Crime/Thriller",
+            "budget_crores": 0.5,
+            "estimated_profit_crores": 5
+        },
+        {
+            "movie_name": "Rangeela",
+            "release_date": "1995-09-08",
+            "director": "Ram Gopal Varma",
+            "genre": "Romance/Musical",
+            "budget_crores": 2,
+            "estimated_profit_crores": 15
+        },
+        {
+            "movie_name": "Anaganaga Oka Roju",
+            "release_date": "1997-01-10",
+            "director": "Ram Gopal Varma",
+            "genre": "Crime/Thriller",
+            "budget_crores": 1,
+            "estimated_profit_crores": 3
+        },
+        {
+            "movie_name": "Satya",
+            "release_date": "1998-07-03",
+            "director": "Ram Gopal Varma",
+            "genre": "Crime/Drama",
+            "budget_crores": 2,
+            "estimated_profit_crores": 12
+        },
+        {
+            "movie_name": "Company",
+            "release_date": "2002-04-15",
+            "director": "Ram Gopal Varma",
+            "genre": "Crime/Thriller",
+            "budget_crores": 4,
+            "estimated_profit_crores": 10
+        },
+        {
+            "movie_name": "Sarkar",
+            "release_date": "2005-07-01",
+            "director": "Ram Gopal Varma",
+            "genre": "Political/Crime",
+            "budget_crores": 8,
+            "estimated_profit_crores": 25
+        },
+        {
+            "movie_name": "Rakta Charitra",
+            "release_date": "2010-10-22",
+            "director": "Ram Gopal Varma",
+            "genre": "Biographical/Crime",
+            "budget_crores": 12,
+            "estimated_profit_crores": 20
+        },
+        {
+            "movie_name": "Dongala Mutha",
+            "release_date": "2011-03-18",
+            "director": "Ram Gopal Varma",
+            "genre": "Experimental/Thriller",
+            "budget_crores": 0.7,
+            "estimated_profit_crores": 2
+        },
+        {
+            "movie_name": "The Attacks of 26/11",
+            "release_date": "2013-03-01",
+            "director": "Ram Gopal Varma",
+            "genre": "Action/Thriller",
+            "budget_crores": 10,
+            "estimated_profit_crores": 15
+        }
+    ]
+}
